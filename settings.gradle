@@ -1,2 +1,3 @@
 rootProject.name = 'HyeonKyu-Lab'
+include 'java-lab'
 
