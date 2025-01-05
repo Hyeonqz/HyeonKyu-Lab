@@ -1,0 +1,5 @@
+### 1억건 데이터 Insert
+GET http://127.0.0.1:8081/v1/act/loop
+
+### 헬스체크
+GET http://127.0.0.1:8081/actuator/health
