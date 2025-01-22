@@ -1,3 +1,4 @@
 rootProject.name = 'HyeonKyu-Lab'
 include 'java-lab'
+include 'design-pattern-lab'
 
