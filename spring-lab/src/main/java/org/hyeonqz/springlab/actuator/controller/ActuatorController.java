@@ -3,6 +3,7 @@ package org.hyeonqz.springlab.actuator.controller;
 import java.util.List;
 
 import org.hyeonqz.springlab.actuator.service.LoopService;
+import org.hyeonqz.springlab.annotation.AnnotationService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
